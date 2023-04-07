@@ -2,11 +2,12 @@
 
 使用cc98上ZJU_Latex_Templates的LaTeX实验报告模板。
 
+生成的PDF文件在Report_Test.pdf中
+
 ### 实验一
 
 md数据好难算c，感觉算得很不准……
 
-生成的PDF文件在Report_Test.pdf中
 
 ### 实验二
 
